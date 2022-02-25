@@ -1,0 +1,565 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain dealing poulterer: or, A poulterer's shop opened with all sorts of ware, and how to know the young from the old, being dead or alive. Also how to feed and fatten fowl in a short time, with other things necessary to be known. Very useful for gentlemen and other[s,] that they may not be deceived. By Adam Shewring, a Poulterer.</title>
+            <author>Shewring, Adam.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59959</idno>
+            <idno type="STC">Wing S3428A</idno>
+            <idno type="STC">ESTC R221170</idno>
+            <idno type="EEBO-CITATION">99832530</idno>
+            <idno type="PROQUEST">99832530</idno>
+            <idno type="VID">37004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2059:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain dealing poulterer: or, A poulterer's shop opened with all sorts of ware, and how to know the young from the old, being dead or alive. Also how to feed and fatten fowl in a short time, with other things necessary to be known. Very useful for gentlemen and other[s,] that they may not be deceived. By Adam Shewring, a Poulterer.</title>
+                  <author>Shewring, Adam.</author>
+               </titleStmt>
+               <extent>[4], 26 p. : 8#20.  </extent>
+               <publicationStmt>
+                  <publisher>printed for C. Brome, at the Gun at the West-end of Saint Paul's,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: Price stitched four pence.</note>
+                  <note>Imperfect; pages stained, title page torn, with some loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poultry --  Feeding and feeds --  Early works to 1800.</term>
+               <term>Poultry breeds --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37004:1" rendition="simple:additions"/>
+            <p>The Plain-Dealing POULTERER: OR, A Poulterer's Shop Opened, WITH All Sorts of Ware, and how to know the Young from the Old, being Dead or Alive.</p>
+            <p>Alſo how to Feed and Fatten Fowl in a ſhort time; with other things neceſſary to be known.</p>
+            <p>Very uſefull for Gentlemen and others, that they may not be Deceived.</p>
+            <p>By <hi>Adam Shewring,</hi> a Poulterer.</p>
+            <q>
+               <l>If that you intend well to fare,</l>
+               <l>Be wiſe in Chuſing Poulter's ware.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>C. Brome,</hi> at the <hi>Gun</hi> at the <hi>Weſt-end</hi> of Saint <hi>Paul</hi>'s. 1687.</p>
+         </div>
+         <div type="epistle_to_the_reader">
+            <pb facs="tcp:37004:2"/>
+            <pb facs="tcp:37004:2"/>
+            <head>THE EPISTLE To the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have thought it good after my ma<g ref="char:EOLhyphen"/>ny years experience, and knowledge gotten in Poultery, to impart my know<g ref="char:EOLhyphen"/>ledge for the good of others; I am ſure it will be as uſefull for the Seller, as for the Buyer: my Intent is for good; and I deſire they who make uſe of this Book, may gain knowledge in it; in regard Poultery for Goodneſs and Bad<g ref="char:EOLhyphen"/>neſs
+<pb facs="tcp:37004:3"/>is unknown to many, I leave it with thee for thy uſe, and I wiſh much good it may doe thee; accept of it from thy Friend,</p>
+            <closer>
+               <signed>Adam Shewring.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37004:3"/>
+            <head>The Plain-dealing POULTERER.</head>
+            <head type="sub">How to get the Knowledge of Land-fowl and Water-fowl.</head>
+            <div type="part">
+               <head>Firſt of Water-fowl. </head>
+               <div type="section">
+                  <head>
+                     <hi>A</hi> Swan <hi>and</hi> Synet, <hi>and other Broad-footed Fowl.</hi>
+                  </head>
+                  <p>A Swan when it is killed, it is either pull'd or ſcalded; if full of hairs, then it is old, but if not full of hairs, then they are young; when they are young, they are called Synets.</p>
+               </div>
+               <div type="section">
+                  <head>A Wild Gooſe.</head>
+                  <p>A Wild Gooſe if ſhe be red-footed, then ſhe is old and full of hairs; if ſhe be whitiſh-footed, and not full of hairs, then ſhe is young.</p>
+               </div>
+               <div type="section">
+                  <pb n="2" facs="tcp:37004:4"/>
+                  <head>A Brand Gooſe.</head>
+                  <p>If ſhe be full of hairs when ſhe is pull'd, then ſhe is old; if not, then ſhe is young.</p>
+               </div>
+               <div type="section">
+                  <head>A Tame Gooſe.</head>
+                  <p>A Tame Gooſe ſcalded, and lying in water in a Poulterer's Shop, or elſewhere, do but rub your fin<g ref="char:EOLhyphen"/>ger upon the breaſt of it, if it feel rugged or ruff, then it is new kill'd; but if it feel ſlippery, or ſlimy, then it is ſtale kill'd.</p>
+               </div>
+               <div type="section">
+                  <head>A Tame Gooſe dry pull'd.</head>
+                  <p>If dry pull'd, if red-footed, and red bild, and full of hairs when ſhe is pull'd, then it is old; but if ſhe hath a yellowiſh foot and a yellowiſh bill, then ſhe is young.</p>
+               </div>
+               <div type="section">
+                  <head>A Wild Duck.</head>
+                  <p>If ſhe be fat, ſhe will feel thick and hard upon the belly; but if lean, ſhe will feel thin and ſoft upon the belly: and if ſhe be new kill'd, ſhe will be limber<g ref="char:EOLhyphen"/>footed; but if ſtale kill'd, ſhe will be dry-footed; and if it be right wild, it hath a ſmall reddiſh foot.</p>
+               </div>
+               <div type="section">
+                  <head>A Tame Duck.</head>
+                  <p>A Tame Duck muſt be choſen after the ſame man<g ref="char:EOLhyphen"/>ner as a Wild Duck, new or ſtale, but it hath a thic<g ref="char:EOLhyphen"/>ker foot, blackiſh, and ſomewhat yellowiſh; but a
+<pb n="3" facs="tcp:37004:4"/>Duck ſcalded, that lieth in water in a Poulterer's Shop, or elſewhere, do but rub your finger upon the breaſt of it, if it feel ruff, it is new kill'd, but if it feel ſlippery, or ſlimy, then it is ſtale kill'd.</p>
+               </div>
+               <div type="section">
+                  <head>Teals.</head>
+                  <p>If they feel thick or hard upon the belly, then they are fat; but if they feel thin upon the belly, then they are lean; and if they are dry-footed, then ſtale kill'd; but if limber-footed, then they are new kill'd.</p>
+               </div>
+               <div type="section">
+                  <head>Land Wiggens.</head>
+                  <p>Land Wiggens are in the chuſing, as Teals good or bad, fat or lean, new or ſtale.</p>
+               </div>
+               <div type="section">
+                  <head>A Pintail.</head>
+                  <p>A Pintail is almoſt in bigneſs like a Duck, and as good meat; in the ſame manner of chuſing them, good or bad, fat or lean, new or ſtale.</p>
+               </div>
+               <div type="section">
+                  <head>A Water Wiggen.</head>
+                  <p>A Water Wiggen is worſe than a Land Wiggen a great deal, for they are very full of bloud, and will eat rank, and look black when they are dreſſed.</p>
+               </div>
+               <div type="section">
+                  <head>A Fowl called a Nun.</head>
+                  <p>Nuns are as Water Wiggens, but full of bloud, and will eat rank, and look black when they are dreſſed.</p>
+               </div>
+               <div type="section">
+                  <pb n="4" facs="tcp:37004:5"/>
+                  <head>A Whewar.</head>
+                  <p>It is like a Land Wiggen, but hath a broader bill, but good meat.</p>
+               </div>
+               <div type="section">
+                  <head>A Curlew.</head>
+                  <p>Hath a long hookt bill; if it be fat, it will be firm upon the belly; if it be lean, it will feel thin upon the belly; if new kill'd, it will be limber<g ref="char:EOLhyphen"/>footed.</p>
+               </div>
+               <div type="section">
+                  <head>A Stone-Curlew.</head>
+                  <p>It hath a ſhort bill, but no difference in the eating for goodneſs of meat.</p>
+               </div>
+               <div type="section">
+                  <head>An Olive.</head>
+                  <p>It is white-breaſted, and black backed, and hath a ſmall long red leg, it doth eat fiſhy and oily.</p>
+               </div>
+               <div type="section">
+                  <head>A Stent.</head>
+                  <p>Is about the bigneſs of a Jack-Suite, and like bill'd, but a little ſhorter, and very bad meat, ſhe is gray-feathered.</p>
+                  <p>Moore-hens are good for nothing, Dydappers and Cootes good for nothing, onely for ſport.</p>
+                  <p>
+                     <hi>So much for Water-fowl.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:37004:5"/>
+               <head>Several ſorts of <hi>LAND-FOWL.</hi>
+               </head>
+               <div type="section">
+                  <head>A Buſtar.</head>
+                  <p>A Buſtar is as big as a Gooſe, and it is the beſt, rareſt and deareſt Fowl we have in <hi>England;</hi> it hath no heel, and therefore moſt commonly they are taken with Gray-hounds; they are ſeldom bought or ſold in Poulterers Shops, or Markets, but are preſented as a gift to Perſons of quality.</p>
+               </div>
+               <div type="section">
+                  <head>A Feſant Cock.</head>
+                  <p>If it be young, it hath a ſhort ſpur; but if it be old, it hath a ſmall ſharp ſpur; Mind that it be not cut or par'd; if it be fat, it will have a fat vein upon the ſide of the breaſt of it under the wing; if it be new, it will have a faſt firm vent; but if it be ſtale kill'd, it will have a green vent, and if you do but touch it any thing hard with your finger, it will peel. But mind the vent with loamduſt, or any other thing, as flower, or ſuch like.</p>
+               </div>
+               <div type="section">
+                  <head>A Feſant Hen.</head>
+                  <p>A Feſant Hen, if it be young, it hath a ſmooth leg, and a fine ſmooth grain upon the fleſh of it; but
+<pb n="6" facs="tcp:37004:6"/>if it be old, it hath a rugged wrinckled grain upon the fleſh of it, and full of hairs, like an old yard Hen; if ſhe be full of Eggs, ſhe will have a faſt, but open vent, as a yard Hen hath; if not full of Eggs, a cloſe vent.</p>
+               </div>
+               <div type="section">
+                  <head>A Feſant Powt.</head>
+                  <p>It hath a fine ſmooth leg, and a ſmooth grain up<g ref="char:EOLhyphen"/>on the fleſh of it; but if it be green in the vent, or dry-footed, then it is ſtale kill'd; but if it be limber-footed, and white in the vent, then ſhe is new kill'd.</p>
+               </div>
+               <div type="section">
+                  <head>A Heath Cock.</head>
+                  <p>If it be new, it will be ſtiff and white in the vent, and limber-footed; and if it be fat, it will be hard in the vent; but if ſtale, it will be dry-footed, and green in the vent; do but touch it hard with your finger in the vent, it will peel.</p>
+               </div>
+               <div type="section">
+                  <head>A Heath Powt-male.</head>
+                  <p>If it be new, it will be ſtiff and white in the vent, and limber-footed; and if it be fat, hard in the vent; but if ſtale, it will be dry-footed, and green in the vent; if you touch it hard with your finger in the vent, it will peel.</p>
+               </div>
+               <div type="section">
+                  <head>A Growſe which is grayer than the Cock.</head>
+                  <p>A Growſe is a Female Powt, but male and fe<g ref="char:EOLhyphen"/>male of one bigneſs, when it is pull'd, if it be new, it will be ſtiff and white in the vent, and
+<pb n="7" facs="tcp:37004:6"/>limber-footed; if ſtale, it will have a green vent, and dry-footed.</p>
+               </div>
+               <div type="section">
+                  <head>A Woodcock.</head>
+                  <p>If it be fat, it will feel thick and hard in the vent, and have a fat vein upon the ſide of the breaſt of it under the wing; but if lean, it will feel thin in the vent; if new kill'd, limber-footed; but if ſtale, dry-footed; have a care that it hath not got a ſnotty noſe, or a moriſh muddy throat; you may know that by ſqueeſing the throat.</p>
+               </div>
+               <div type="section">
+                  <head>A Partridge.</head>
+                  <p>A Partridge, if it be old, it hath a white bill and a blewiſh leg; but if it be young, it hath a blackiſh bill, and a yellowiſh leg; if new, it will have a faſt firm vent; but if ſtale, it will have a green vent, and will peel if you touch the vent hard with your fin<g ref="char:EOLhyphen"/>ger; but you muſt have a care of the crop of it: if it hath eaten green Wheat, and full cropt, it will ſtink and be green in the crop.</p>
+               </div>
+               <div type="section">
+                  <head>A Snipe.</head>
+                  <p>If it be fat, it will feel thick and fat in the vent, and have a fat vein upon the ſide of the breaſt under the wing; but if lean, it will feel thin in the vent; and if it be new kill'd, it will be limber-footed; if ſtale, then dry-footed; but have a care it hath not a ſnotty noſe, nor a moriſh muddy throat.</p>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:37004:7"/>
+                  <head>A Green Plover.</head>
+                  <p>A Green Plover hath no heel, and if ſhe be new and good, ſhe will be limber-footed; and if ſhe be far, ſhe will feel thick and hard in the vent of her; but if lean, ſhe will feel thin in the vent; and if ſtale kill'd, dry-footed; ſhe will keep the longeſt ſweet and good of any Fowl in <hi>England.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A Gray Plover.</head>
+                  <p>A Gray Plover is in the ſame manner as a Green Plover is in bigneſs and in goodneſs, and juſt the ſame in chuſing good or bad.</p>
+               </div>
+               <div type="section">
+                  <head>A Stone-Plover.</head>
+                  <p>Is like a Gray Plover, and about the ſame big<g ref="char:EOLhyphen"/>neſs; but ſhe eateth oily and fiſhy.</p>
+               </div>
+               <div type="section">
+                  <head>A Baſtard-Plover, or a Lapent.</head>
+                  <p>A Baſtard-Plover is the worſt of all, for they are far ſtronger in taſte and rankneſs, and very full of bloud, and they look black when they are dreſſed; but if far, they will feel thick and fat in the vent; and if new, limber-footed.</p>
+               </div>
+               <div type="section">
+                  <head>A Black-bird.</head>
+                  <p>A Black-bird, if ſhe be thick and hard in the vent, then ſhe is fat; and if limber-footed, then new kill'd; but if thin in the vent, and dry, then ſhe is both ſtale and poor.</p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:37004:7"/>
+                  <head>A Felfaire.</head>
+                  <p>If ſhe be thick and hard in the vent, then ſhe is fat; if limber-footed, then new kill'd; but if thin in the vent, and dry-footed, then ſhe is both ſtale and poor.</p>
+               </div>
+               <div type="section">
+                  <head>A Maves.</head>
+                  <p>Is a little bigger than a Black-bird, and as good meat in eating; If fat, ſhe will feel thick in the vent; and if new, limber-footed; but if poor, then ſhe will feel thin in the vent; and if ſtale, dry-footed.</p>
+               </div>
+               <div type="section">
+                  <head>A Field-Lark.</head>
+                  <p>A Field-Lark hath a long heel; and if ſhe be fat, ſhe will feel thick and hard in the vent; and if new, limber-footed; but if ſtale, ſhe will be dry-footed, and peel in the vent if you touch it with your finger.</p>
+               </div>
+               <div type="section">
+                  <head>A Wood-Lark.</head>
+                  <p>Is one that is bred in the Wood, and that is the ſinging Lark; it is ſmaller and grayer than the Heath-Lark, and hath a long heel like the Field-Lark.</p>
+               </div>
+               <div type="section">
+                  <pb n="10" facs="tcp:37004:8"/>
+                  <head>A Tit-Lark.</head>
+                  <p>A Tit-Lark is as ſmall as a Wood-Lark, and hath a heel like the other, and many times we have them come among our Field-Larks.</p>
+               </div>
+               <div type="section">
+                  <head>A Bunten.</head>
+                  <p>A Bunten commonly comes among the Field-Larks, and we do ſell them with the Larks, and for Larks; but they have not a long heel as a Lark hath, and they have a perfect tooth in the roof of their mouth; put in your finger and feel, and you ſhall find it to be true.</p>
+               </div>
+               <div type="section">
+                  <head>A Turtle-Dove.</head>
+                  <p>A Turtle-Dove for the moſt part they are white, and they have a blewiſh ring about their neck, and if once matched and bred together, and if one of them doth die, the other will never match again with any other, but will pine away and die.</p>
+               </div>
+               <div type="section">
+                  <head>A Stock-Dove.</head>
+                  <p>A Stock-Dove is bigger than a Wood-Pigeon, and better meat a great deal, and braver meat, lar<g ref="char:EOLhyphen"/>ded and roaſted very well, it is good for the eater, and eſpecially if a man hath a good appetite.</p>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:37004:8"/>
+                  <head>A Ring-Dove.</head>
+                  <p>A Ring-dove is leſs than a Stock-Dove. and more blewiſh, and nothing near ſo good meat.</p>
+               </div>
+               <div type="section">
+                  <head>A Wood-Pigeon.</head>
+                  <p>A Wood-Pigeon, or Wood-Quiſt, ſome do call them, is almoſt as big as a Stock-Dove, but not ſo good meat nothing near.</p>
+               </div>
+               <div type="section">
+                  <head>A Dove-houſe Pigeon.</head>
+                  <p>A Dove-houſe Pigeon if ſhe be new kill'd, ſhe will be ſtiff and firm in the vent; and if ſtale kill'd, lim<g ref="char:EOLhyphen"/>ber and green in the vent; and if old, red-legged.</p>
+               </div>
+               <div type="section">
+                  <head>Tame Pigeons.</head>
+                  <p>Tame Pigeons are of divers ſorts; but we uſe but two ſorts of them, one ſort to roaſt, and the other to boil or bake.</p>
+               </div>
+               <div type="section">
+                  <head>A Peacock.</head>
+                  <p>Peacocks are ſeldom uſed, except it be for great Feaſts, or the like, and more to make a ſhew than for the goodneſs of the meat.</p>
+               </div>
+               <div type="section">
+                  <head>A Pea-Hen.</head>
+                  <p>A Pea-Hen is brave meat, if ſhe be young; but ſel<g ref="char:EOLhyphen"/>dom uſed, except it be for great Feaſts, or the like.</p>
+               </div>
+               <div type="section">
+                  <pb n="12" facs="tcp:37004:9"/>
+                  <head>A Pea-Chicken.</head>
+                  <p>A Pea-Chicken is as brave meat as any Feaſant-Powt, or rather better if ſhe be new kill'd.</p>
+               </div>
+               <div type="section">
+                  <head>A Turky-Cock.</head>
+                  <p>A Turky-Cock, if he be young, he hath a ſmooth blackiſh leg, and a ſhort ſpur; but if he be old, he hath a ſharp ſpur and a red leg; if he be ſtale, he will be dry-footed, and his eyes will be ſunk in his head; but if he be new kill'd, his eyes will ſtand firm in his head as if he were alive.</p>
+               </div>
+               <div type="section">
+                  <head>A Turky-Hen.</head>
+                  <p>A Turky-Hen, if ſhe be old, ſhe will have a red leg, and a rugged grain; but if young, a ſmooth grain; and if ſhe is full of Eggs, ſhe is faſt and open-vented; if hard-vented, not full of Eggs.</p>
+               </div>
+               <div type="section">
+                  <head>A Turky-Chicken.</head>
+                  <p>A Turky-Chicken dry pulled is as hard to pull as any Fowl that is; but ſcalded, it is as eaſie as any Fowl that is: But many times Gentlemen are de<g ref="char:EOLhyphen"/>ceived in Taverns, or Ordinaries, or other places, where feaſting is, and where Gentlemen uſe to meet together: Many times at great Feaſts they do take Hen-Chickens with white legs, and ſcald them, and do truſs them Turky-faſhion, and make Turky-ſawce to them, and it muſt be a good Palate that can find it out, unleſs he had notice of it before.</p>
+               </div>
+               <div type="section">
+                  <pb n="13" facs="tcp:37004:9"/>
+                  <head>A Capon.</head>
+                  <p>A Capon, if a-live, ſhe will have a fat thick rump, and a fat thick belly, and a fat vein under her wing on the ſide of her breaſt; and if ſhe be young, ſhe will have a ſhort ſpur, and a ſmooth leg; but if ſhe be old, ſhe hath a ſharp ſpur; but have a care the ſpur be not cut, par'd, or ſcraped leſſer; but if you miſtruſt it, do but pinch it upon the breaſt with your thumb, and if your thumb goeth in eaſie, then it is young; but if hard, then 'tis old; but if alive, have a care ſhe be not bruiſed upon the breaſt with carri<g ref="char:EOLhyphen"/>age, or have any ſore, or wen about her; and if ſhe be pale about the head, and have a ſhort comb, then ſhe is young; but if read about the head, then ſhe is no clean Capon.</p>
+               </div>
+               <div type="section">
+                  <head>A Caponet.</head>
+                  <p>A Capon and a Caponet is all one in the chuſing of them, good or bad, fat or lean, new or ſtale, but ſhe hath a ſhorter ſpur; and is more tender and younger meat.</p>
+               </div>
+               <div type="section">
+                  <head>A Pullet.</head>
+                  <p>A Pullet, if ſhe be a right Pullet, ſhe will have a ſmooth leg, and a ſmooth breaſt, and will pinch ten<g ref="char:EOLhyphen"/>der upon the breaſt of it; and if ſhe be full of Eggs, ſhe will be open in the vent, and ſoft in the belly; but if not, ſhe will be hard in the vent, and ſmall-vented.</p>
+               </div>
+               <div type="section">
+                  <pb n="14" facs="tcp:37004:10"/>
+                  <head>A Cock.</head>
+                  <p>A Cock hath a red comb, and red gills; but if he hath a ſhort ſpur, not cut, nor par'd, and fat, he will ſpend very well.</p>
+               </div>
+               <div type="section">
+                  <head>A Hen.</head>
+                  <p>A Hen in <hi>January</hi> will ſpend better than the beſt Capon or Pullet that can be, if ſhe be young, and full of Eggs; and that you may know by her ſoft and open vent, and by her red comb.</p>
+               </div>
+               <div type="section">
+                  <head>A Chicken dry pull'd.</head>
+                  <p>If ſhe be new kill'd, will be ſtiff and white, and firm in the vent; but if ſtale kill'd, it will be limber and green in the vent.</p>
+               </div>
+               <div type="section">
+                  <head>A Chicken Scalded.</head>
+                  <p>A Chicken ſcalded in a Poulterer's Shop, or elſewhere, and lieth in water, do but rub your finger upon the breaſt of her, and if ſhe feels ruff, then ſhe is new kill'd; but if ſhe feel ſlip<g ref="char:EOLhyphen"/>pery and ſlimy, then it is ſtale kill'd.</p>
+               </div>
+               <div type="section">
+                  <head>A Cramb'd Chicken.</head>
+                  <p>A Cramb'd Chicken, if ſhe be fat, ſhe will have a fat rump, and a fat vein upon the ſide of the breaſt of her like a fat Pullet.</p>
+               </div>
+               <div type="section">
+                  <pb n="15" facs="tcp:37004:10"/>
+                  <head>A Shuffler.</head>
+                  <p>A Shuffler is like a Duck, but not ſo big, and it hath a broader bill, and they are fed with red Wheat and white, boiled; and with Mault, and with Bullocks-liver cut in ſmall pieces.</p>
+               </div>
+               <div type="section">
+                  <head>A Godward.</head>
+                  <p>A Godward hath a long bill like a Woodcock, and they are fed with the ſame ſort of meat as your Shufflers are.</p>
+               </div>
+               <div type="section">
+                  <head>A Ruffe.</head>
+                  <p>A Ruffe is none of the ſtrongeſt Fowl that is; for you ſhall ſee a hundred of them together, and not one of them like the other; and they are fed with the ſame ſort of meat as your God<g ref="char:EOLhyphen"/>wards are.</p>
+               </div>
+               <div type="section">
+                  <head>A Knot.</head>
+                  <p>A Knot is leſſer than a Ruffe, and they feed as your Ruffs do, or with the ſame ſort of meat.</p>
+               </div>
+               <div type="section">
+                  <head>A Marrel.</head>
+                  <p>A Marrel is about the bigneſs of a Knot, and are ſold commonly for Knots to them that have no skill or judgment in them, but nothing near ſo good meat, and they are gray-feathered like a Stent.</p>
+               </div>
+               <div type="section">
+                  <pb n="16" facs="tcp:37004:11"/>
+                  <head>A Gull.</head>
+                  <p>Gulls are bigger than Ducks a great deal, and they are fed with Bullocks-liver cut in ſmall pieces, and give them water enough, and that will make them very fat.</p>
+               </div>
+               <div type="section">
+                  <head>Hearns.</head>
+                  <p>Hearns are fed in the ſame manner as your Gulls are, with Bullocks liver cut in ſmall pieces.</p>
+               </div>
+               <div type="section">
+                  <head>Bitterns.</head>
+                  <p>Bitterns are fed in the ſame manner as your Hearns are, with Bullocks-liver cut in ſmall pieces, and give them water enough.</p>
+               </div>
+               <div type="section">
+                  <head>A Pevet.</head>
+                  <p>A Pevet is a Water-fowl (or what you pleaſe to call them) and your Poulterers keep them alive, and feed them with liver cut in ſmall pieces, and be ſure you give them water e<g ref="char:EOLhyphen"/>nough; and if they are fat, they will have a fat vein upon the ſide of the breaſt under the wing.</p>
+               </div>
+               <div type="section">
+                  <head>A Dottrell.</head>
+                  <p>A Dottrell is about the bigneſs of a Thruſh in body; but ſhe is redder breaſted, and is a brave Bird for meat as any is to be ſold for the bigneſs
+<pb n="17" facs="tcp:37004:11"/>of it; If ſhe be fat, ſhe will have a fat vein up<g ref="char:EOLhyphen"/>on the ſide of the breaſt of her under the wing, and will feel hard, fat, and firm in the vent, ſtiff in the body, and limber-footed; but if ſtale, limber and dry-footed.</p>
+               </div>
+               <div type="section">
+                  <head>A Wheat-geat.</head>
+                  <p>A Wheat-gear is a ſmaller Bird than a Dot<g ref="char:EOLhyphen"/>trell; but brave meat as can be eaten; and if ſhe be fat, ſhe will have a fat vein upon the ſide of the breaſt of her under the wing, and will feel hard, fat, and firm in the vent; and if new, ſtiff in the body, and limber-footed; but if ſtale, then dry-footed.</p>
+               </div>
+               <div type="section">
+                  <head>A Quail.</head>
+                  <p>A Quail is a fine Bird if ſhe be fat, but your <hi>French</hi> Quails are the beſt, and will feed better than our <hi>Engliſh</hi> Quails a great deal; it is a cur<g ref="char:EOLhyphen"/>riſh Bird, and will beat it ſelf againſt the Cages ſides, or up to the top of the Cage: the beſt way to make them fat, is to keep them dry and cloſe together, and dark, and always let them have meat and water enough before them: men do feed them with Wheat, but Hemp-ſeed is a great deal better.</p>
+               </div>
+               <div type="section">
+                  <pb n="18" facs="tcp:37004:12"/>
+                  <head>Young or old Partridges how to keep them alive.</head>
+                  <p>Partridges are fed with Wheat, or elſe with freſh Cheeſe-curds, and give them Milk to drink; you muſt keep them very warm with dry ſtraw, and keep the cold from them; for if they are kept cold and dirty, they will not thrive, but fall away and die.</p>
+                  <p>
+                     <hi>So much for Fowl; now follow Four-footed Beaſts.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:37004:12"/>
+               <head>Of Four-footed BEASTS.</head>
+               <div type="section">
+                  <head>A Hare.</head>
+                  <p>A Hare, if ſhe be new kill'd, will be ſtiff; if large and white, clean kill'd, then ſhe is good; if limber, then ſtale kill'd, and will be black upon the fleſh of her.</p>
+               </div>
+               <div type="section">
+                  <head>A Levaret.</head>
+                  <p>A Levaret, if ſhe be new kill'd, will be ſtiff; but if ſtale kill'd, will be limber; and if ſhe be a right Levaret, will have a ſmall bone; if not, a knob on the out-ſide of her fore-leg near the foot; and do but ſtroke your finger down upon the out<g ref="char:EOLhyphen"/>ſide of the leg, near the foot, and you ſhall feel a ſmall bone, or knob; if not, ſhe is no Leavaret, but a Hare.</p>
+               </div>
+               <div type="section">
+                  <head>A Cony.</head>
+                  <p>A Cony, if ſhe be new kill'd, will be ſtiff; but if ſtale kill'd, will be limber, and have a kind of ſlime upon her.</p>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:37004:13"/>
+                  <head>A Rabbet.</head>
+                  <p>A Rabbet, if ſhe be new kill'd, will be ſtiff; but if ſtale kill'd, will be limber; and if it be a right Rabbet, it will have a ſmall knot or knob upon the outſide of her fore-foot a little above the joint.</p>
+                  <p>A Hare, a Levaret, a Cony, a Rabbet, when you have kill'd them, you muſt let them be through<g ref="char:EOLhyphen"/>ly cold before you do truſs them up in Paniers, or in Baskets; for if you truſs them up hot, they will ſtink and ſpoil preſently, and in the Summer-time be as green as graſs, and ſtink.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Rot in Conies.</head>
+                  <p>The Rot that is incident to Conies cometh by giving them too much green Meat, or gathering their greens with the dew on it; therefore let them have it but ſeldom, and then the dryneſs of the Hay you give them will drink up the moiſture knit in them, and keep them ſound without danger.</p>
+               </div>
+               <div type="section">
+                  <head>Of Madneſs in Conies.</head>
+                  <p>It is ingendered by corrupt bloud ſpringing from the rankneſs of their keeping, and you ſhall know it by their wallowing and tumbling with their heels upward, and leaping in their Boxes: to cure them, you muſt give them Thiſtles to
+<pb n="21" facs="tcp:37004:13"/>eat, and it will heal them. Thus much for the tame and rich Cony.</p>
+               </div>
+               <div type="section">
+                  <head>How a Capon may lead Chickens.</head>
+                  <p>Capons are of two uſes, the one is to lead Chickens, Ducklings, young Turkies, Pea-Hens, Pheſants, or Partridges, which it will doe natu<g ref="char:EOLhyphen"/>rally, and kindly; and by reaſon of the largeneſs of his body, will brood, or cover eaſily thirty or forty, he will lead them forth ſafely, and defend them from Kites, or Buzzards, better than the Hens. The way to make them take the charge, is with a fine ſmall bryer, or elſe ſharp Nettles at night, do but ſting all his breaſt, and neather parts, and then in the dark ſet the Chickens un<g ref="char:EOLhyphen"/>der him; the warmth or heat taketh away the ſmart, ſo he will fall much in love with them; and whenſoever he proveth unkind, you muſt ſting him again, and this will make him never forſake them.</p>
+               </div>
+               <div type="section">
+                  <head>Of Feeding and Cramming Capons.</head>
+                  <p>The beſt way to cram a Capon, is to take Bar<g ref="char:EOLhyphen"/>ly-meal reaſonably ſifted, and mix it with New<g ref="char:EOLhyphen"/>milk, make it into a good ſtiff Dow-paſte, then make it into long crams, or rowls, biggeſt in the midſt, ſmall at both ends, and then wetting them in luke-warm Milk, give the Capon a full gorge, three times a day, morning, noon, and night, and he will in two or three weeks be as fat as any man needs to eat.</p>
+               </div>
+               <div type="section">
+                  <pb n="22" facs="tcp:37004:14"/>
+                  <head>Of the Pip in Poultry.</head>
+                  <p>A Pip is a white thin ſcale growing on the tip of the tongue, and will make Poultry they can<g ref="char:EOLhyphen"/>not feed: it is eaſie to be diſcerned, and procee<g ref="char:EOLhyphen"/>deth generally from drinking Puddle-water, or want of water, or eating filthy meat: The cure is to pull the ſcale with your nail, and then rub the tongue with ſalt.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Rup in Poultery.</head>
+                  <p>The Rup is a filthy bile or ſwelling on the Rump, it will corrupt the whole body; it is ordi<g ref="char:EOLhyphen"/>narily known by the ſtaring or turning of the feathers backwards: To cure this, you muſt pull away the feathers, and open the ſore, thruſt out the coar, and then waſh the place with ſalt and water, or with brine, and it helpeth.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Flux in Poultery.</head>
+                  <p>The Flux in Poultery cometh with eating too much moiſt meat; the cure is to give them Peas, Bran ſcalded, and it will ſtay them.</p>
+               </div>
+               <div type="section">
+                  <head>Of Stopping in the Belly.</head>
+                  <p>Stopping in the belly of Poultery is contrary to the flax, ſo that they cannot move; therefore you ſhall anoint the vents, and then give them either ſmall bits of bread, or corn, ſteept in man's urine.</p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:37004:14"/>
+                  <head>Of Lice in Poultery.</head>
+                  <p>If your Poultery be much troubled with Lice, as it is common, proceeding from corrupt food, or want of bathing in ſand, or aſhes, or ſuch like; take Pepper ſmall beaten, mixing it with warm water; waſh your Poultery therein, and it will kill all ſorts of Vermine.</p>
+               </div>
+               <div type="section">
+                  <head>Of Poultery being Stung.</head>
+                  <p>If they be ſtung with any venomous Worms, or venomous thing, as you may perceive by their lowring and ſwelling; if ſo, then you muſt anoint them with Rue and Butter mixt together, and it helpeth.</p>
+               </div>
+               <div type="section">
+                  <head>Of Sore Eyes in Poultery.</head>
+                  <p>If they have ſore Eyes, you muſt take a leaf or two of Ground-Ivy and chewing it well in your mouth, ſuck out the juice, and ſpit it into the ſore Eye, and it will moſt aſſuredly heal it, as it hath been often tried.</p>
+               </div>
+               <div type="section">
+                  <head>Of Hens that Eat their Eggs.</head>
+                  <p>If you will not have your Hen eat her Eggs, lay a piece of Chalk, cut like an Egg, at which ſhe will often be pecking; and loſing her labour, ſhe will refrain the thing.</p>
+               </div>
+               <div type="section">
+                  <pb n="24" facs="tcp:37004:15"/>
+                  <head>Of making Hens lay ſoon and oft.</head>
+                  <p>If you feed your Hens oft with Toaſt taken out of Ale, with Barly boil'd, or Fiches, they will lay oft, and all the Winter.</p>
+               </div>
+               <div type="section">
+                  <head>Of Feeding the Partridge, Pheaſant, or Quail.</head>
+                  <p>Theſe three are the moſt daintieſt of all other Birds: And for the Pheaſant or Partride, you may feed them both in one room, where you may have little Boxes for them to run and hide themſelves in the corners of the room: In the middle of the room you muſt have three Wheat<g ref="char:EOLhyphen"/>ſheaves, two with their ears upwards, and one with the ears downward, and near unto them ſhallow Tubs with water, that they may eaſily drink out of the Tubs, and peck the ears of Corn at pleaſure: By this manner of feeding of them, you ſhall have them as fat as is poſſible. As for your Quails, the beſt feeding of them is in long flat ſhallow Boxes, each Box able to hold two or three dozen, the formoſt ſide being ſet with round pins ſo thick that the Quail do no more but put out her head; before the open ſide ſhall ſtand one Trough full of Wheat, another with Hemp<g ref="char:EOLhyphen"/>ſeed, and another with Water; ſo that in two or three weeks you ſhall have them exceeding fat.</p>
+               </div>
+               <div type="section">
+                  <pb n="25" facs="tcp:37004:15"/>
+                  <head>Of Godwites, Knots, Roofes, or Curlewes.</head>
+                  <p>For to feed any of theſe Fowl, which are eſtee<g ref="char:EOLhyphen"/>med of all other the daintieſt and deareſt: Take fair Childer-wheat and water, give them thrice a<g ref="char:EOLhyphen"/>day, morning, noon and night, that will doe it ef<g ref="char:EOLhyphen"/>fectually; but if you intend to have them extra<g ref="char:EOLhyphen"/>ordinary, and cramed, then you muſt take the fi<g ref="char:EOLhyphen"/>neſt-dreſt Wheat-meal, and mixing it with Milk, make it into Paſte, and as you knead it, ſprinkle into it the grains of ſmall Wheat till the Paſte be fully mixt therewith; then make little ſmall crams thereof, dipping them in water, give to every Fowl according to his bigneſs, till the gorge be well fill'd; doe this as oft as you ſhall find the gorge empty, and in one fortnight they will be exceeding fat; and with theſe Crams you may feed any Fowl, what kind or nature ſoever.</p>
+               </div>
+               <div type="section">
+                  <head>How to feed Black-Birds, Thruſhes, Felfairs, or any ſmall Birds whatſoever.</head>
+                  <p>To feed theſe Birds, being taken wild, and old, it is good to have ſome of their kind tame to mix among them, and there putting them into great Cages, three or four yards ſquare, placing therein divers Troughs, ſome fill'd with Haws, ſome with Hemp-ſeed, and ſome with Water; that the tame teaching the wild to eat, and the wild finding ſuch change and alteration of food, they will in twelve or fourteen days grow ex<g ref="char:EOLhyphen"/>ceeding fat, and fit for the uſe of the Kitchin.</p>
+               </div>
+               <div type="section">
+                  <pb n="26" facs="tcp:37004:16"/>
+                  <head>A Starling.</head>
+                  <p>A Starling is one of the worſt Birds to eat that is, ſhe will eat bitter being dead; but keep them alive, one of the beſt Birds that is to talk or whiſtle; there is two ſorts of them, a Field-Star<g ref="char:EOLhyphen"/>ling that breeds in a Tree, and a Houſe-Starling that breeds in Churches, or in Houſes; a Cock-Starling hath a white throat, and a black ſtreak underneath his tongue, and a Hen-Starling hath none.</p>
+               </div>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:37004:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
